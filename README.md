@@ -6,6 +6,8 @@
 
   结果仅供参考！
   
+  
+  
   Result parameter description: The ranking in the CSV file is the ranking result after the AI quantitative model normalizes the Label values of all individual stocks. The target of its Label prediction is the name of the folder (such as the closing price of T+2 divide by the closing price of T+1).
   
   Long-term (trend) forecasts are much more effective than short-term forecasts. For predictions that contain opening price information, the information ratio is very low, so the validity and accuracy are low relative to closing price information.
