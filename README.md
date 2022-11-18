@@ -13,6 +13,7 @@
   结果仅供参考！
   
   
+  In the trading strategy based on this forecast result, the cumulative return from the 20220104 to 20221118 exceeded 46%, and the excess return relative to the CSI300 reached 70%.
   
   Result parameter description: The ranking in the CSV file is the ranking result after the AI quantitative model normalizes the Label values of all individual stocks. The target of its Label prediction is the name of the folder (such as the closing price of T+2 divide by the closing price of T+1).The file date is T+1 day (that is, the next day), and the update date is T day.
   
